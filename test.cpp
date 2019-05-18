@@ -1,4 +1,4 @@
-int testProperty;
+﻿int testProperty;
 
 void testfunction()
 {
