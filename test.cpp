@@ -3,4 +3,5 @@
 void testfunction()
 {
 	printf("testtesttest");
+	printf("test2")
 }
